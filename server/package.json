@@ -1,0 +1,35 @@
+{
+  "name": "tomasmendes",
+  "version": "1.0.0",
+  "description": "Estágio 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "cookie-session": "^2.1.0",
+    "fastify": "^4.26.2",
+    "fastify-cookie": "^5.7.0",
+    "fastify-jwt": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.2",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@fastify/cookie": "^9.3.1",
+    "@fastify/jwt": "^8.0.0",
+    "@types/cookie-session": "^2.0.48",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/mysql": "^2.15.25",
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.64",
+    "typescript": "^5.3.3"
+  }
+}

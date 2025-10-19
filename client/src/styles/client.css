@@ -1,0 +1,21 @@
+.container-layout{
+    height: 100vh;
+    width: 100vw;
+}
+
+.header{
+    background-color:#001529;
+}
+
+.brand {
+    font-size: 2rem;
+    padding: 10;
+    margin-left: 70px;
+}
+
+.content{
+    padding: 24px;
+    background-color: #001529;
+}
+
+
