@@ -1,4 +1,4 @@
-# Tomas Mendes - Internship 2024 
+# Startup Manager Mini-Project
 
 ## Startup Project 
 This initiative, undertaken during an internship at Albatroz Digital, is designed to delve into the realms of TypeScript, Fastify, React, and Ant Design (Antd) frameworks. The objective is to construct a RESTful API leveraging Fastify in TypeScript for backend functionalities, alongside developing a frontend interface utilizing React and incorporating Antd components.
